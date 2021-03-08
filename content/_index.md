@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/10.jpg
+    image: >-
+      images/stock-photo-programmers-at-work-concept-can-use-for-web-banner-infographics-hero-images-flat-isometric-1342949630.jpg
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >-
